@@ -1,0 +1,16 @@
+.my-square{
+    width: calc((100% / 10) - 20px);
+    height: calc((100% / 10) - 20px);
+    margin: 10px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 950px;
+    height: 950px;
+}
+body{
+    background-image: url(img/constellation-stars-space-4k-wallpaper-uhdpaper.com-153@5@c.jpg);
+    background-size: cover;
+}
